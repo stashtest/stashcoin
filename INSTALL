@@ -1,0 +1,12 @@
+Building Stashcoin
+
+See doc/readme-qt.rst for instructions on building Stashcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Stashcoin.
+
+See doc/build-*.txt for instructions on building stashcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Stashcoin.
+
+Further build information and documentation is available at
+the official Stashcoin website, http://www.stashcoin.org

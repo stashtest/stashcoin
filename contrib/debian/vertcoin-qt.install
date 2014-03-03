@@ -1,0 +1,6 @@
+stashcoin-qt usr/bin
+share/pixmaps/stashcoin32.xpm usr/share/pixmaps
+share/pixmaps/stashcoin16.xpm usr/share/pixmaps
+share/pixmaps/stashcoin128.png usr/share/pixmaps
+debian/stashcoin-qt.desktop usr/share/applications
+debian/stashcoin-qt.protocol usr/share/kde4/services/

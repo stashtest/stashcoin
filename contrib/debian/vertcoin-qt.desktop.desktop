@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Stashcoin
+Comment=Stashcoin P2P Cryptocurrency
+Exec=/usr/bin/stashcoin-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/stashcoin128.png
+MimeType=x-scheme-handler/bitcoin;
+Categories=Office;
+Name[en_US]=stashcoin-qt.desktop
